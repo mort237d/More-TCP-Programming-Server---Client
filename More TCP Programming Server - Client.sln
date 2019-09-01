@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment A - Simple Math - Server", "More TCP Programming Server - Client\Assignment A - Simple Math - Server.csproj", "{D15D0A2A-8EEC-4D7C-AB6B-D4D6335B8B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment A - Simple Math - Client", "Assignment A - Simple Math - Client\Assignment A - Simple Math - Client.csproj", "{39FF46BE-7B3D-4615-97DA-659E93BE8DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15D0A2A-8EEC-4D7C-AB6B-D4D6335B8B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15D0A2A-8EEC-4D7C-AB6B-D4D6335B8B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15D0A2A-8EEC-4D7C-AB6B-D4D6335B8B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15D0A2A-8EEC-4D7C-AB6B-D4D6335B8B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FF46BE-7B3D-4615-97DA-659E93BE8DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FF46BE-7B3D-4615-97DA-659E93BE8DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FF46BE-7B3D-4615-97DA-659E93BE8DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FF46BE-7B3D-4615-97DA-659E93BE8DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F690338D-C654-4907-867A-FBB91B2C4EFB}
+	EndGlobalSection
+EndGlobal
