@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Assignment_B___More_Math_Now_With_Decimal_Numbers___Client</RootNamespace>
+  </PropertyGroup>
+
+</Project>
