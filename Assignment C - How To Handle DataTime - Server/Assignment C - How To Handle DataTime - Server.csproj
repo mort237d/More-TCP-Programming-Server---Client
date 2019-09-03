@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Assignment_C___How_To_Handle_DataTime___Server</RootNamespace>
+  </PropertyGroup>
+
+</Project>
